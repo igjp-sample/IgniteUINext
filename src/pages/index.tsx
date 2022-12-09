@@ -16,6 +16,10 @@ export default function Home() {
       <div>
         <Link href={"./chart"}>チャート</Link>
       </div>
+
+      <div>
+        <Link href={"./spreadsheet"}>スプレッドシート</Link>
+      </div>
     </>
   );
 }
